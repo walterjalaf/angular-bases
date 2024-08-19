@@ -11,6 +11,7 @@ import { AppComponent } from './app.component';
 
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -22,6 +23,7 @@ import { AppComponent } from './app.component';
     CounterModule,
     HeroesModule,
     DbzModule,
+
   ],
   providers: [],
   bootstrap: [AppComponent]
